@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RahulGupta012&color=blue&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulGupta012&show_icons=true&theme=tokyonight)
+
 <!--
 **RahulGupta012/RahulGupta012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
