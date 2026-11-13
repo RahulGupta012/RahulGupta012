@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=RahulGupta012&color=blue&style=flat)
 <!--
 **RahulGupta012/RahulGupta012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
